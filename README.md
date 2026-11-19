@@ -1,4 +1,4 @@
-# Hi, I'm Sathwik S. Bhat
+# Hi, I'm Sathwik.S. Bhat
 
 AI & Data Science undergraduate at SMVITM (VTU), building practical machine-learning, forecasting, and full-stack applications. I'm currently looking for internship opportunities in AI/ML, data science, and software development.
 
